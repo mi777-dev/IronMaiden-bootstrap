@@ -1,0 +1,101 @@
+/* Estilo do body */
+.iron-body{
+  background-image:url(img/fundo2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  margin-top:180px;
+
+}
+
+/* Estilo da barra de navegaçao */
+ .navbar-inverse {
+  background:rgba(119,136,153);
+  min-height:10%;
+  border: none;
+  margin-left:15px;
+  margin-right:15px;
+  
+  
+}
+
+.logo-img{
+ margin-top:20px;
+ width: 80px;
+ margin-left:15px;
+ min-height:10%;
+
+                                                                                              
+}
+.img-social{ 
+width:40px;
+height:40px;
+
+}
+.social-media{ 
+float:right;
+margin-top:70px;
+margin-bottom:10px;
+margin-right:15px;
+}
+.button{
+background:black;
+min-height:10%;
+border:none;
+margin-top:30px;
+padding:18px;
+
+	
+}
+h4,p{
+	color:#8B0000;
+	margin-top:27px;
+	
+}
+.iron1-img{
+	width:100px;
+	height:100px;
+	margin-top:30px;
+}
+/*.form-control{
+margin-top:15px;
+margin-left:15px;
+width:550px;	
+height:50px;
+
+}*/
+.btn{
+	width:350px;
+	margin-top:10px;
+	margin-left:10px;
+	
+}ma
+
+.busca{
+	margin-top:30px;
+	/*margin-left:10px;*/
+	margin-right:0px;
+	margin-bottom:30px;
+	
+}
+
+.form-group{
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:15px;
+}
+.img-responsive{
+	margin-top:30px;
+	height:100%;
+	width:100%;
+	margin-bottom:15px;
+}
+
+
+	
+body{
+	padding-top:185px;
+	
+}
